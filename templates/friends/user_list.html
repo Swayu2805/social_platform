@@ -1,0 +1,26 @@
+﻿{% extends 'base.html' %}
+{% block title %}Users{% endblock %}
+{% block content %}
+<h2>All Users</h2>
+<p><a href="{% url 'request_list' %}">📩 View Friend Requests</a></p>
+
+<form method="get" style="box-shadow:none; border:none; padding:0; margin-bottom:18px; display:flex; gap:8px;">
+    <input type="text" name="q" placeholder="Search by username..." value="{{ query }}" style="margin:0;">
+    <button type="submit" class="btn-sm">Search</button>
+</form>
+
+{% for u in users %}
+    <div class="card user-row">
+        <div class="avatar">{{ u.username|slice:":1"|upper }}</div>
+        <div class="user-info">
+            <a href="{% url 'profile' u.username %}" class="username-link">{{ u.username }}</a>
+        </div>
+        <div class="actions">
+            <a href="{% url 'send_request' u.id %}" class="btn btn-sm btn-outline">Add Friend</a>
+            <a href="{% url 'follow_toggle' u.id %}" class="btn btn-sm">Follow</a>
+        </div>
+    </div>
+{% empty %}
+    <p class="empty-state">No users found.</p>
+{% endfor %}
+{% endblock %}

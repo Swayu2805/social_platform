@@ -1,0 +1,71 @@
+﻿{% extends 'base.html' %}
+{% block title %}Feed{% endblock %}
+{% block content %}
+<div class="card">
+<h2>Create a Post</h2>
+<form method="post" enctype="multipart/form-data" style="box-shadow:none; border:none; padding:0; margin:0;">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <img id="image-preview" src="" style="display:none; max-width:100%; border-radius:10px; margin-bottom:14px;">
+    <button type="submit">Post</button>
+</form>
+</div>
+
+<h3>Feed</h3>
+{% for post in posts %}
+    <div class="post-card">
+        <div class="post-card-header">
+            <div class="avatar">{{ post.author.username|slice:":1"|upper }}</div>
+            <div>
+                <div class="post-author">{{ post.author.username }}</div>
+                <div class="post-meta">{{ post.created_at }}</div>
+            </div>
+        </div>
+        <p>{{ post.content }}</p>
+        {% if post.image %}
+            <img src="{{ post.image.url }}" width="100%">
+        {% endif %}
+        <div class="post-actions">
+            <a href="{% url 'like_toggle' post.id %}">❤ Like ({{ post.likes.count }})</a>
+            {% if post.author == request.user %}
+                <a href="{% url 'edit_post' post.id %}">Edit</a>
+                <a href="{% url 'delete_post' post.id %}" class="danger-link">Delete</a>
+            {% endif %}
+        </div>
+        <ul class="comments-list">
+        {% for comment in post.comments.all %}
+            <li><strong>{{ comment.author.username }}</strong>: {{ comment.text }}</li>
+        {% endfor %}
+        </ul>
+        <form method="post" action="{% url 'add_comment' post.id %}" style="box-shadow:none; border:none; padding:0; margin:0; display:flex; gap:8px;">
+            {% csrf_token %}
+            <input type="text" name="text" placeholder="Add a comment" required style="margin:0;">
+            <button type="submit" class="btn-sm">Send</button>
+        </form>
+    </div>
+{% empty %}
+    <p class="empty-state">No posts yet. Be the first to share something!</p>
+{% endfor %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const fileInput = document.querySelector('input[type=file]');
+    const preview = document.getElementById('image-preview');
+    if (fileInput) {
+        fileInput.addEventListener('change', function() {
+            const file = this.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                    preview.style.display = 'block';
+                };
+                reader.readAsDataURL(file);
+            } else {
+                preview.style.display = 'none';
+            }
+        });
+    }
+});
+</script>
+{% endblock %}

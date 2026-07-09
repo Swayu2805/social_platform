@@ -1,0 +1,25 @@
+﻿{% extends 'base.html' %}
+{% block title %}Reported Posts{% endblock %}
+{% block content %}
+<h2>Reported Posts</h2>
+<p><a href="{% url 'dashboard_home' %}">Back to Dashboard</a></p>
+
+{% for r in reports %}
+    <div class="card">
+        <div class="post-meta">Reported by <strong>{{ r.reported_by.username }}</strong> on {{ r.created_at }}</div>
+        <p><strong>Reason:</strong> {{ r.reason }}</p>
+        <hr>
+        <div class="post-meta">Post by <strong>{{ r.post.author.username }}</strong></div>
+        <p>{{ r.post.content }}</p>
+        {% if r.post.image %}
+            <img src="{{ r.post.image.url }}" width="200"><br>
+        {% endif %}
+        <div class="post-actions" style="margin-top:10px;">
+            <a href="{% url 'dismiss_report' r.id %}">Dismiss Report</a>
+            <a href="{% url 'delete_reported_post' r.id %}" class="danger-link">Delete Post</a>
+        </div>
+    </div>
+{% empty %}
+    <p class="empty-state">No reported posts. All clean!</p>
+{% endfor %}
+{% endblock %}

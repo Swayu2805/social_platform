@@ -1,0 +1,27 @@
+﻿{% extends 'base.html' %}
+{% block title %}User Management{% endblock %}
+{% block content %}
+<h2>User Management</h2>
+<p><a href="{% url 'dashboard_home' %}">Back to Dashboard</a></p>
+
+{% for u in users %}
+    <div class="card user-row">
+        <div class="avatar">{{ u.username|slice:":1"|upper }}</div>
+        <div class="user-info">
+            <strong>{{ u.username }}</strong>
+            <div class="post-meta">{{ u.email }} {% if not u.is_active %}<span style="color:var(--danger);">(Suspended)</span>{% endif %}</div>
+        </div>
+        <div class="actions">
+            {% if u != request.user %}
+                <a href="{% url 'toggle_user_active' u.id %}" class="btn btn-sm {% if u.is_active %}btn-danger{% else %}btn-outline{% endif %}">
+                    {% if u.is_active %}Suspend{% else %}Reactivate{% endif %}
+                </a>
+            {% else %}
+                <span class="post-meta">(You)</span>
+            {% endif %}
+        </div>
+    </div>
+{% empty %}
+    <p class="empty-state">No users found.</p>
+{% endfor %}
+{% endblock %}

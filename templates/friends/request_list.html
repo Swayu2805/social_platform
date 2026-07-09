@@ -1,0 +1,21 @@
+﻿{% extends 'base.html' %}
+{% block title %}Friend Requests{% endblock %}
+{% block content %}
+<h2>Pending Friend Requests</h2>
+<p><a href="{% url 'user_list' %}">← Back to Users</a></p>
+{% for r in received %}
+    <div class="card user-row">
+        <div class="avatar">{{ r.from_user.username|slice:":1"|upper }}</div>
+        <div class="user-info">
+            <strong>{{ r.from_user.username }}</strong>
+            <div class="post-meta">wants to be friends</div>
+        </div>
+        <div class="actions">
+            <a href="{% url 'accept_request' r.id %}" class="btn btn-sm">Accept</a>
+            <a href="{% url 'reject_request' r.id %}" class="btn btn-sm btn-outline">Reject</a>
+        </div>
+    </div>
+{% empty %}
+    <p class="empty-state">No pending requests.</p>
+{% endfor %}
+{% endblock %}

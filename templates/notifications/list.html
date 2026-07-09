@@ -1,0 +1,21 @@
+﻿{% extends 'base.html' %}
+{% block title %}Notifications{% endblock %}
+{% block content %}
+<h2>Notifications</h2>
+{% for n in notifications %}
+    <div class="post-card notif-item {% if not n.is_read %}notif-unread{% endif %}">
+        <div class="notif-icon">
+            {% if n.notif_type == 'like' %}❤{% elif n.notif_type == 'comment' %}💬{% elif n.notif_type == 'follow' %}➕{% else %}🤝{% endif %}
+        </div>
+        <div>
+            <div class="notif-text">{{ n.text }}</div>
+            <div class="notif-meta">
+                {{ n.created_at }}
+                {% if not n.is_read %} <span class="notif-new-tag">• NEW</span>{% endif %}
+            </div>
+        </div>
+    </div>
+{% empty %}
+    <p class="empty-state">No notifications yet.</p>
+{% endfor %}
+{% endblock %}

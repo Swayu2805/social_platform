@@ -1,0 +1,55 @@
+﻿{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Social Platform{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <nav>
+        {% if user.is_authenticated %}
+            <span class="nav-greeting">Hi, {{ user.username }}</span>
+            <a href="{% url 'feed' %}">Feed</a>
+            <a href="{% url 'profile' user.username %}">My Profile</a>
+            <a href="{% url 'user_list' %}">Users</a>
+            <a href="{% url 'notification_list' %}">Notifications<span id="notif-badge">{% if unread_notif_count > 0 %}<span class="nav-badge">{{ unread_notif_count }}</span>{% endif %}</span></a>
+            {% if user.is_staff %}
+                <a href="{% url 'dashboard_home' %}">Dashboard</a>
+            {% endif %}
+            <a href="{% url 'logout' %}">Logout</a>
+        {% else %}
+            <a href="{% url 'login' %}">Login</a>
+            <a href="{% url 'register' %}">Register</a>
+        {% endif %}
+    </nav>
+    <div class="container">
+    {% block content %}{% endblock %}
+    </div>
+
+    {% if user.is_authenticated %}
+    <script>
+    (function() {
+        const protocol = window.location.protocol === 'https:' ? 'wss://' : 'ws://';
+        const socket = new WebSocket(protocol + window.location.host + '/ws/notifications/');
+        let unreadCount = {{ unread_notif_count|default:0 }};
+
+        socket.onmessage = function(e) {
+            const data = JSON.parse(e.data);
+            unreadCount += 1;
+            const badgeSpan = document.getElementById('notif-badge');
+            badgeSpan.innerHTML = '<span class="nav-badge">' + unreadCount + '</span>';
+
+            if (Notification.permission === 'granted') {
+                new Notification('Social Platform', { body: data.text });
+            }
+        };
+
+        socket.onclose = function() {
+            console.log('Notification socket closed');
+        };
+    })();
+    </script>
+    {% endif %}
+</body>
+</html>

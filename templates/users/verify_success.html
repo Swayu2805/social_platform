@@ -1,0 +1,9 @@
+﻿{% extends 'base.html' %}
+{% block title %}Email Verified{% endblock %}
+{% block content %}
+<div class="auth-container card" style="text-align:center;">
+<h2>Email Verified! ✅</h2>
+<p style="color:var(--text-muted); margin-bottom:16px;">Your account is now active.</p>
+<a href="{% url 'login' %}" class="btn">Go to Login</a>
+</div>
+{% endblock %}

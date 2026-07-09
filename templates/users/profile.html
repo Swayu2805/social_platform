@@ -1,0 +1,53 @@
+﻿{% extends 'base.html' %}
+{% block title %}{{ profile_user.username }}'s Profile{% endblock %}
+{% block content %}
+<div class="card profile-header">
+    {% if profile_user.profile_pic %}
+        <img src="{{ profile_user.profile_pic.url }}" class="profile-avatar-lg">
+    {% else %}
+        <div class="profile-avatar-lg">{{ profile_user.username|slice:":1"|upper }}</div>
+    {% endif %}
+
+    <h2 class="profile-name">{{ profile_user.username }}</h2>
+
+    {% if profile_user.bio %}
+        <p class="profile-bio">{{ profile_user.bio }}</p>
+    {% endif %}
+    {% if profile_user.location %}
+        <p class="profile-bio">📍 {{ profile_user.location }}</p>
+    {% endif %}
+
+    <div class="profile-stats">
+        <div class="profile-stat-item">
+            <span class="profile-stat-num">{{ posts_count }}</span>
+            <span class="profile-stat-label">Posts</span>
+        </div>
+        <div class="profile-stat-item">
+            <span class="profile-stat-num">{{ followers_count }}</span>
+            <span class="profile-stat-label">Followers</span>
+        </div>
+        <div class="profile-stat-item">
+            <span class="profile-stat-num">{{ following_count }}</span>
+            <span class="profile-stat-label">Following</span>
+        </div>
+    </div>
+
+    {% if profile_user == request.user %}
+        <a href="{% url 'edit_profile' %}" class="btn btn-outline">Edit Profile</a>
+    {% else %}
+        <a href="{% url 'follow_toggle' profile_user.id %}" class="btn {% if is_following %}btn-outline{% endif %}">
+            {% if is_following %}Unfollow{% else %}+ Follow{% endif %}
+        </a>
+    {% endif %}
+</div>
+
+<h3>Posts</h3>
+{% for post in posts %}
+    <div class="post-card">
+        <p>{{ post.content }}</p>
+        <div class="post-meta">{{ post.created_at }}</div>
+    </div>
+{% empty %}
+    <p class="empty-state">No posts yet.</p>
+{% endfor %}
+{% endblock %}

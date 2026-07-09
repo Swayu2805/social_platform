@@ -1,0 +1,37 @@
+﻿{% extends 'base.html' %}
+{% block title %}Admin Dashboard{% endblock %}
+{% block content %}
+<h2>Admin Dashboard</h2>
+
+<div style="display:flex; gap:16px; margin-bottom:20px; flex-wrap:wrap;">
+    <div class="card" style="flex:1; min-width:140px; text-align:center;">
+        <div class="profile-stat-num" style="font-size:26px;">{{ total_users }}</div>
+        <div class="profile-stat-label">Total Users</div>
+    </div>
+    <div class="card" style="flex:1; min-width:140px; text-align:center;">
+        <div class="profile-stat-num" style="font-size:26px;">{{ total_posts }}</div>
+        <div class="profile-stat-label">Total Posts</div>
+    </div>
+    <div class="card" style="flex:1; min-width:140px; text-align:center;">
+        <div class="profile-stat-num" style="font-size:26px; color:var(--danger);">{{ total_reports }}</div>
+        <div class="profile-stat-label">Pending Reports</div>
+    </div>
+</div>
+
+<div style="display:flex; gap:10px; margin-bottom:24px;">
+    <a href="{% url 'reported_posts' %}" class="btn">View Reported Posts</a>
+    <a href="{% url 'user_management' %}" class="btn btn-outline">Manage Users</a>
+    <a href="/admin/" class="btn btn-outline">Django Admin</a>
+</div>
+
+<h3>Recent Reports</h3>
+{% for r in recent_reports %}
+    <div class="card">
+        <strong>{{ r.reported_by.username }}</strong> reported a post by <strong>{{ r.post.author.username }}</strong>
+        <div class="post-meta">Reason: {{ r.reason }}</div>
+        <div class="post-meta">{{ r.created_at }}</div>
+    </div>
+{% empty %}
+    <p class="empty-state">No reports yet.</p>
+{% endfor %}
+{% endblock %}
