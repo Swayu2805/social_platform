@@ -1,0 +1,2001 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Like",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Like",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Report",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "isExtraImport": true,
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "FriendRequest",
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "isExtraImport": true,
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "isExtraImport": true,
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "FriendRequest",
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "isExtraImport": true,
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "isExtraImport": true,
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "isExtraImport": true,
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "isExtraImport": true,
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "isExtraImport": true,
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "isExtraImport": true,
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "isExtraImport": true,
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "staff_member_required",
+        "importPath": "django.contrib.admin.views.decorators",
+        "description": "django.contrib.admin.views.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.admin.views.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_layer",
+        "importPath": "channels.layers",
+        "description": "channels.layers",
+        "isExtraImport": true,
+        "detail": "channels.layers",
+        "documentation": {}
+    },
+    {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolTypeRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "URLRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddlewareStack",
+        "importPath": "channels.auth",
+        "description": "channels.auth",
+        "isExtraImport": true,
+        "detail": "channels.auth",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_urlpatterns",
+        "importPath": "notifications.routing",
+        "description": "notifications.routing",
+        "isExtraImport": true,
+        "detail": "notifications.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "Csv",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_site",
+        "importPath": "django.contrib.sites.shortcuts",
+        "description": "django.contrib.sites.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.contrib.sites.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "force_bytes",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_encode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_decode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "api.apps",
+        "description": "api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    name = 'api'",
+        "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['id', 'username', 'email', 'bio', 'profile_pic', 'cover_photo', 'location', 'is_private']\nclass CommentSerializer(serializers.ModelSerializer):\n    author = UserSerializer(read_only=True)\n    class Meta:\n        model = Comment\n        fields = ['id', 'post', 'author', 'text', 'created_at']\nclass PostSerializer(serializers.ModelSerializer):",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class CommentSerializer(serializers.ModelSerializer):\n    author = UserSerializer(read_only=True)\n    class Meta:\n        model = Comment\n        fields = ['id', 'post', 'author', 'text', 'created_at']\nclass PostSerializer(serializers.ModelSerializer):\n    author = UserSerializer(read_only=True)\n    comments = CommentSerializer(many=True, read_only=True)\n    likes_count = serializers.SerializerMethodField()\n    class Meta:",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PostSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class PostSerializer(serializers.ModelSerializer):\n    author = UserSerializer(read_only=True)\n    comments = CommentSerializer(many=True, read_only=True)\n    likes_count = serializers.SerializerMethodField()\n    class Meta:\n        model = Post\n        fields = ['id', 'author', 'content', 'image', 'video', 'created_at', 'updated_at', 'comments', 'likes_count']\n    def get_likes_count(self, obj):\n        return obj.likes.count()\nclass LikeSerializer(serializers.ModelSerializer):",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LikeSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class LikeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Like\n        fields = ['id', 'post', 'user', 'created_at']\nclass FriendRequestSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = FriendRequest\n        fields = ['id', 'from_user', 'to_user', 'status', 'created_at']\nclass FollowSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FriendRequestSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class FriendRequestSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = FriendRequest\n        fields = ['id', 'from_user', 'to_user', 'status', 'created_at']\nclass FollowSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Follow\n        fields = ['id', 'follower', 'following', 'created_at']\nclass NotificationSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FollowSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class FollowSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Follow\n        fields = ['id', 'follower', 'following', 'created_at']\nclass NotificationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Notification\n        fields = ['id', 'recipient', 'sender', 'notif_type', 'text', 'is_read', 'created_at']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class NotificationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Notification\n        fields = ['id', 'recipient', 'sender', 'notif_type', 'text', 'is_read', 'created_at']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "User = get_user_model()\nclass UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = ['id', 'username', 'email', 'bio', 'profile_pic', 'cover_photo', 'location', 'is_private']\nclass CommentSerializer(serializers.ModelSerializer):\n    author = UserSerializer(read_only=True)\n    class Meta:\n        model = Comment\n        fields = ['id', 'post', 'author', 'text', 'created_at']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('users', UserViewSet)\nrouter.register('posts', PostViewSet)\nrouter.register('comments', CommentViewSet)\nrouter.register('likes', LikeViewSet)\nrouter.register('friend-requests', FriendRequestViewSet)\nrouter.register('follows', FollowViewSet)\nrouter.register('notifications', NotificationViewSet)\nurlpatterns = [\n    path('', include(router.urls)),",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(author=self.request.user)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(author=self.request.user)\nclass CommentViewSet(viewsets.ModelViewSet):\n    queryset = Comment.objects.all()\n    serializer_class = CommentSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CommentViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class CommentViewSet(viewsets.ModelViewSet):\n    queryset = Comment.objects.all()\n    serializer_class = CommentSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(author=self.request.user)\nclass LikeViewSet(viewsets.ModelViewSet):\n    queryset = Like.objects.all()\n    serializer_class = LikeSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "LikeViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class LikeViewSet(viewsets.ModelViewSet):\n    queryset = Like.objects.all()\n    serializer_class = LikeSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(user=self.request.user)\nclass FriendRequestViewSet(viewsets.ModelViewSet):\n    queryset = FriendRequest.objects.all()\n    serializer_class = FriendRequestSerializer\n    permission_classes = [permissions.IsAuthenticated]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "FriendRequestViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class FriendRequestViewSet(viewsets.ModelViewSet):\n    queryset = FriendRequest.objects.all()\n    serializer_class = FriendRequestSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass FollowViewSet(viewsets.ModelViewSet):\n    queryset = Follow.objects.all()\n    serializer_class = FollowSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass NotificationViewSet(viewsets.ModelViewSet):\n    queryset = Notification.objects.all()",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "FollowViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class FollowViewSet(viewsets.ModelViewSet):\n    queryset = Follow.objects.all()\n    serializer_class = FollowSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass NotificationViewSet(viewsets.ModelViewSet):\n    queryset = Notification.objects.all()\n    serializer_class = NotificationSerializer\n    permission_classes = [permissions.IsAuthenticated]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class NotificationViewSet(viewsets.ModelViewSet):\n    queryset = Notification.objects.all()\n    serializer_class = NotificationSerializer\n    permission_classes = [permissions.IsAuthenticated]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "User = get_user_model()\nclass UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DashboardConfig",
+        "kind": 6,
+        "importPath": "dashboard.apps",
+        "description": "dashboard.apps",
+        "peekOfCode": "class DashboardConfig(AppConfig):\n    name = 'dashboard'",
+        "detail": "dashboard.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "dashboard.urls",
+        "description": "dashboard.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.dashboard_home, name='dashboard_home'),\n    path('reports/', views.reported_posts, name='reported_posts'),\n    path('reports/dismiss/<int:report_id>/', views.dismiss_report, name='dismiss_report'),\n    path('reports/delete-post/<int:report_id>/', views.delete_reported_post, name='delete_reported_post'),\n    path('users/', views.user_management, name='user_management'),\n    path('users/toggle/<int:user_id>/', views.toggle_user_active, name='toggle_user_active'),\n]",
+        "detail": "dashboard.urls",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard_home",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def dashboard_home(request):\n    context = {\n        'total_users': User.objects.count(),\n        'total_posts': Post.objects.count(),\n        'total_reports': Report.objects.count(),\n        'recent_reports': Report.objects.select_related('post', 'reported_by').order_by('-created_at')[:5],\n    }\n    return render(request, 'dashboard/home.html', context)\n@staff_member_required\ndef reported_posts(request):",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "reported_posts",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def reported_posts(request):\n    reports = Report.objects.select_related('post', 'post__author', 'reported_by').order_by('-created_at')\n    context = {'reports': reports}\n    return render(request, 'dashboard/reported_posts.html', context)\n@staff_member_required\ndef dismiss_report(request, report_id):\n    report = get_object_or_404(Report, id=report_id)\n    report.delete()\n    return redirect('reported_posts')\n@staff_member_required",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "dismiss_report",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def dismiss_report(request, report_id):\n    report = get_object_or_404(Report, id=report_id)\n    report.delete()\n    return redirect('reported_posts')\n@staff_member_required\ndef delete_reported_post(request, report_id):\n    report = get_object_or_404(Report, id=report_id)\n    post = report.post\n    post.delete()\n    return redirect('reported_posts')",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_reported_post",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def delete_reported_post(request, report_id):\n    report = get_object_or_404(Report, id=report_id)\n    post = report.post\n    post.delete()\n    return redirect('reported_posts')\n@staff_member_required\ndef user_management(request):\n    users = User.objects.all().order_by('-created_at')\n    context = {'users': users}\n    return render(request, 'dashboard/user_management.html', context)",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "user_management",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def user_management(request):\n    users = User.objects.all().order_by('-created_at')\n    context = {'users': users}\n    return render(request, 'dashboard/user_management.html', context)\n@staff_member_required\ndef toggle_user_active(request, user_id):\n    target_user = get_object_or_404(User, id=user_id)\n    if target_user != request.user:\n        target_user.is_active = not target_user.is_active\n        target_user.save()",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_user_active",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def toggle_user_active(request, user_id):\n    target_user = get_object_or_404(User, id=user_id)\n    if target_user != request.user:\n        target_user.is_active = not target_user.is_active\n        target_user.save()\n    return redirect('user_management')",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "User = get_user_model()\n@staff_member_required\ndef dashboard_home(request):\n    context = {\n        'total_users': User.objects.count(),\n        'total_posts': Post.objects.count(),\n        'total_reports': Report.objects.count(),\n        'recent_reports': Report.objects.select_related('post', 'reported_by').order_by('-created_at')[:5],\n    }\n    return render(request, 'dashboard/home.html', context)",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "friends.migrations.0001_initial",
+        "description": "friends.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Follow',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "friends.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "FriendsConfig",
+        "kind": 6,
+        "importPath": "friends.apps",
+        "description": "friends.apps",
+        "peekOfCode": "class FriendsConfig(AppConfig):\n    name = 'friends'",
+        "detail": "friends.apps",
+        "documentation": {}
+    },
+    {
+        "label": "FriendRequest",
+        "kind": 6,
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "peekOfCode": "class FriendRequest(models.Model):\n    STATUS_CHOICES = (\n        ('pending', 'Pending'),\n        ('accepted', 'Accepted'),\n        ('rejected', 'Rejected'),\n    )\n    from_user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='sent_requests')\n    to_user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='received_requests')\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='pending')\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "Follow",
+        "kind": 6,
+        "importPath": "friends.models",
+        "description": "friends.models",
+        "peekOfCode": "class Follow(models.Model):\n    follower = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='following')\n    following = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='followers')\n    created_at = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        unique_together = ('follower', 'following')\n    def __str__(self):\n        return f\"{self.follower.username} follows {self.following.username}\"",
+        "detail": "friends.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "friends.urls",
+        "description": "friends.urls",
+        "peekOfCode": "urlpatterns = [\n    path('users/', views.user_list, name='user_list'),\n    path('request/send/<int:user_id>/', views.send_request, name='send_request'),\n    path('request/accept/<int:request_id>/', views.accept_request, name='accept_request'),\n    path('request/reject/<int:request_id>/', views.reject_request, name='reject_request'),\n    path('requests/', views.request_list, name='request_list'),\n    path('follow/<int:user_id>/', views.follow_toggle, name='follow_toggle'),\n]",
+        "detail": "friends.urls",
+        "documentation": {}
+    },
+    {
+        "label": "user_list",
+        "kind": 2,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "def user_list(request):\n    query = request.GET.get('q', '')\n    users = User.objects.exclude(id=request.user.id)\n    if query:\n        users = users.filter(username__icontains=query)\n    return render(request, 'friends/user_list.html', {'users': users, 'query': query})\n@login_required\ndef send_request(request, user_id):\n    to_user = get_object_or_404(User, id=user_id)\n    if to_user != request.user:",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "send_request",
+        "kind": 2,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "def send_request(request, user_id):\n    to_user = get_object_or_404(User, id=user_id)\n    if to_user != request.user:\n        fr, created = FriendRequest.objects.get_or_create(from_user=request.user, to_user=to_user)\n        if created:\n            Notification.objects.create(\n                recipient=to_user,\n                sender=request.user,\n                notif_type='friend_request',\n                text=f'{request.user.username} sent you a friend request.'",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "accept_request",
+        "kind": 2,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "def accept_request(request, request_id):\n    fr = get_object_or_404(FriendRequest, id=request_id, to_user=request.user)\n    fr.status = 'accepted'\n    fr.save()\n    Notification.objects.create(\n        recipient=fr.from_user,\n        sender=request.user,\n        notif_type='friend_request',\n        text=f'{request.user.username} accepted your friend request.'\n    )",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "reject_request",
+        "kind": 2,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "def reject_request(request, request_id):\n    fr = get_object_or_404(FriendRequest, id=request_id, to_user=request.user)\n    fr.status = 'rejected'\n    fr.save()\n    return redirect('request_list')\n@login_required\ndef request_list(request):\n    received = FriendRequest.objects.filter(to_user=request.user, status='pending')\n    return render(request, 'friends/request_list.html', {'received': received})\n@login_required",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "request_list",
+        "kind": 2,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "def request_list(request):\n    received = FriendRequest.objects.filter(to_user=request.user, status='pending')\n    return render(request, 'friends/request_list.html', {'received': received})\n@login_required\ndef follow_toggle(request, user_id):\n    target = get_object_or_404(User, id=user_id)\n    if target != request.user:\n        follow, created = Follow.objects.get_or_create(follower=request.user, following=target)\n        if not created:\n            follow.delete()",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "follow_toggle",
+        "kind": 2,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "def follow_toggle(request, user_id):\n    target = get_object_or_404(User, id=user_id)\n    if target != request.user:\n        follow, created = Follow.objects.get_or_create(follower=request.user, following=target)\n        if not created:\n            follow.delete()\n        else:\n            Notification.objects.create(\n                recipient=target,\n                sender=request.user,",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "friends.views",
+        "description": "friends.views",
+        "peekOfCode": "User = get_user_model()\n@login_required\ndef user_list(request):\n    query = request.GET.get('q', '')\n    users = User.objects.exclude(id=request.user.id)\n    if query:\n        users = users.filter(username__icontains=query)\n    return render(request, 'friends/user_list.html', {'users': users, 'query': query})\n@login_required\ndef send_request(request, user_id):",
+        "detail": "friends.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "notifications.migrations.0001_initial",
+        "description": "notifications.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Notification',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "notifications.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationsConfig",
+        "kind": 6,
+        "importPath": "notifications.apps",
+        "description": "notifications.apps",
+        "peekOfCode": "class NotificationsConfig(AppConfig):\n    name = 'notifications'\n    def ready(self):\n        import notifications.signals",
+        "detail": "notifications.apps",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationConsumer",
+        "kind": 6,
+        "importPath": "notifications.consumers",
+        "description": "notifications.consumers",
+        "peekOfCode": "class NotificationConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        if self.scope[\"user\"].is_anonymous:\n            await self.close()\n        else:\n            self.group_name = f\"user_{self.scope['user'].id}_notifications\"\n            await self.channel_layer.group_add(self.group_name, self.channel_name)\n            await self.accept()\n    async def disconnect(self, close_code):\n        if hasattr(self, 'group_name'):",
+        "detail": "notifications.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "unread_count",
+        "kind": 2,
+        "importPath": "notifications.context_processors",
+        "description": "notifications.context_processors",
+        "peekOfCode": "def unread_count(request):\n    if request.user.is_authenticated:\n        count = Notification.objects.filter(recipient=request.user, is_read=False).count()\n        return {'unread_notif_count': count}\n    return {}",
+        "detail": "notifications.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "Notification",
+        "kind": 6,
+        "importPath": "notifications.models",
+        "description": "notifications.models",
+        "peekOfCode": "class Notification(models.Model):\n    NOTIF_TYPES = (\n        ('like', 'Like'),\n        ('comment', 'Comment'),\n        ('friend_request', 'Friend Request'),\n        ('follow', 'Follow'),\n    )\n    recipient = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='notifications')\n    sender = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='sent_notifications')\n    notif_type = models.CharField(max_length=20, choices=NOTIF_TYPES)",
+        "detail": "notifications.models",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_urlpatterns",
+        "kind": 5,
+        "importPath": "notifications.routing",
+        "description": "notifications.routing",
+        "peekOfCode": "websocket_urlpatterns = [\n    re_path(r'ws/notifications/$', consumers.NotificationConsumer.as_asgi()),\n]",
+        "detail": "notifications.routing",
+        "documentation": {}
+    },
+    {
+        "label": "send_notification_ws",
+        "kind": 2,
+        "importPath": "notifications.signals",
+        "description": "notifications.signals",
+        "peekOfCode": "def send_notification_ws(sender, instance, created, **kwargs):\n    if created:\n        channel_layer = get_channel_layer()\n        group_name = f\"user_{instance.recipient.id}_notifications\"\n        async_to_sync(channel_layer.group_send)(\n            group_name,\n            {\n                \"type\": \"send_notification\",\n                \"data\": {\n                    \"text\": instance.text,",
+        "detail": "notifications.signals",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "notifications.urls",
+        "description": "notifications.urls",
+        "peekOfCode": "urlpatterns = [\n    path('notifications/', views.notification_list, name='notification_list'),\n]",
+        "detail": "notifications.urls",
+        "documentation": {}
+    },
+    {
+        "label": "notification_list",
+        "kind": 2,
+        "importPath": "notifications.views",
+        "description": "notifications.views",
+        "peekOfCode": "def notification_list(request):\n    notifications = Notification.objects.filter(recipient=request.user)\n    notifications.filter(is_read=False).update(is_read=True)\n    return render(request, 'notifications/list.html', {'notifications': notifications})",
+        "detail": "notifications.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "posts.migrations.0001_initial",
+        "description": "posts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "posts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "posts.migrations.0002_alter_comment_options_alter_post_options_and_more",
+        "description": "posts.migrations.0002_alter_comment_options_alter_post_options_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('posts', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='comment',\n            options={},\n        ),",
+        "detail": "posts.migrations.0002_alter_comment_options_alter_post_options_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "PostsConfig",
+        "kind": 6,
+        "importPath": "posts.apps",
+        "description": "posts.apps",
+        "peekOfCode": "class PostsConfig(AppConfig):\n    name = 'posts'",
+        "detail": "posts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "kind": 6,
+        "importPath": "posts.forms",
+        "description": "posts.forms",
+        "peekOfCode": "class PostForm(forms.ModelForm):\n    class Meta:\n        model = Post\n        fields = ['content', 'image']\nclass CommentForm(forms.ModelForm):\n    class Meta:\n        model = Comment\n        fields = ['text']",
+        "detail": "posts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CommentForm",
+        "kind": 6,
+        "importPath": "posts.forms",
+        "description": "posts.forms",
+        "peekOfCode": "class CommentForm(forms.ModelForm):\n    class Meta:\n        model = Comment\n        fields = ['text']",
+        "detail": "posts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "peekOfCode": "class Post(models.Model):\n    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='posts')\n    content = models.TextField(max_length=500)\n    image = models.ImageField(upload_to='post_images/', blank=True, null=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"{self.author.username}: {self.content[:30]}\"\nclass Comment(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='comments')\n    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)",
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "peekOfCode": "class Comment(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='comments')\n    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)\n    text = models.CharField(max_length=300)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"Comment by {self.author.username} on {self.post_id}\"\nclass Like(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='likes')\n    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)",
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Like",
+        "kind": 6,
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "peekOfCode": "class Like(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='likes')\n    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        unique_together = ('post', 'user')\nclass Report(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='reports')\n    reported_by = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)\n    reason = models.CharField(max_length=300)",
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Report",
+        "kind": 6,
+        "importPath": "posts.models",
+        "description": "posts.models",
+        "peekOfCode": "class Report(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='reports')\n    reported_by = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)\n    reason = models.CharField(max_length=300)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"Report on {self.post_id} by {self.reported_by.username}\"",
+        "detail": "posts.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "posts.urls",
+        "description": "posts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('feed/', views.feed_view, name='feed'),\n    path('like/<int:post_id>/', views.like_toggle, name='like_toggle'),\n    path('comment/<int:post_id>/', views.add_comment, name='add_comment'),\n    path('post/edit/<int:post_id>/', views.edit_post, name='edit_post'),\n    path('post/delete/<int:post_id>/', views.delete_post, name='delete_post'),\n]",
+        "detail": "posts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "feed_view",
+        "kind": 2,
+        "importPath": "posts.views",
+        "description": "posts.views",
+        "peekOfCode": "def feed_view(request):\n    if request.method == 'POST':\n        form = PostForm(request.POST, request.FILES)\n        if form.is_valid():\n            post = form.save(commit=False)\n            post.author = request.user\n            post.save()\n            return redirect('feed')\n    else:\n        form = PostForm()",
+        "detail": "posts.views",
+        "documentation": {}
+    },
+    {
+        "label": "like_toggle",
+        "kind": 2,
+        "importPath": "posts.views",
+        "description": "posts.views",
+        "peekOfCode": "def like_toggle(request, post_id):\n    post = get_object_or_404(Post, id=post_id)\n    like, created = Like.objects.get_or_create(post=post, user=request.user)\n    if not created:\n        like.delete()\n    elif post.author != request.user:\n        Notification.objects.create(\n            recipient=post.author,\n            sender=request.user,\n            notif_type='like',",
+        "detail": "posts.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_comment",
+        "kind": 2,
+        "importPath": "posts.views",
+        "description": "posts.views",
+        "peekOfCode": "def add_comment(request, post_id):\n    post = get_object_or_404(Post, id=post_id)\n    if request.method == 'POST':\n        form = CommentForm(request.POST)\n        if form.is_valid():\n            comment = form.save(commit=False)\n            comment.post = post\n            comment.author = request.user\n            comment.save()\n            if post.author != request.user:",
+        "detail": "posts.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_post",
+        "kind": 2,
+        "importPath": "posts.views",
+        "description": "posts.views",
+        "peekOfCode": "def edit_post(request, post_id):\n    post = get_object_or_404(Post, id=post_id, author=request.user)\n    if request.method == 'POST':\n        form = PostForm(request.POST, request.FILES, instance=post)\n        if form.is_valid():\n            form.save()\n            return redirect('feed')\n    else:\n        form = PostForm(instance=post)\n    return render(request, 'posts/edit_post.html', {'form': form, 'post': post})",
+        "detail": "posts.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_post",
+        "kind": 2,
+        "importPath": "posts.views",
+        "description": "posts.views",
+        "peekOfCode": "def delete_post(request, post_id):\n    post = get_object_or_404(Post, id=post_id, author=request.user)\n    if request.method == 'POST':\n        post.delete()\n        return redirect('feed')\n    return render(request, 'posts/delete_post.html', {'post': post})",
+        "detail": "posts.views",
+        "documentation": {}
+    },
+    {
+        "label": "django_asgi_app",
+        "kind": 5,
+        "importPath": "social_platform.asgi",
+        "description": "social_platform.asgi",
+        "peekOfCode": "django_asgi_app = get_asgi_application()\nfrom channels.routing import ProtocolTypeRouter, URLRouter\nfrom channels.auth import AuthMiddlewareStack\nfrom notifications.routing import websocket_urlpatterns\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AuthMiddlewareStack(\n        URLRouter(websocket_urlpatterns)\n    ),\n})",
+        "detail": "social_platform.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "social_platform.asgi",
+        "description": "social_platform.asgi",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AuthMiddlewareStack(\n        URLRouter(websocket_urlpatterns)\n    ),\n})",
+        "detail": "social_platform.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = config('SECRET_KEY', default='django-insecure-)dgqet@74s%fsrk+uya47ot7xk*8y9yq$erly(t-%34b25qtfv')\nDEBUG = config('DEBUG', default=False, cast=bool)\nALLOWED_HOSTS = config('ALLOWED_HOSTS', default='.onrender.com,localhost,127.0.0.1', cast=Csv())\nINSTALLED_APPS = [\n    'daphne',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "SECRET_KEY = config('SECRET_KEY', default='django-insecure-)dgqet@74s%fsrk+uya47ot7xk*8y9yq$erly(t-%34b25qtfv')\nDEBUG = config('DEBUG', default=False, cast=bool)\nALLOWED_HOSTS = config('ALLOWED_HOSTS', default='.onrender.com,localhost,127.0.0.1', cast=Csv())\nINSTALLED_APPS = [\n    'daphne',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "DEBUG = config('DEBUG', default=False, cast=bool)\nALLOWED_HOSTS = config('ALLOWED_HOSTS', default='.onrender.com,localhost,127.0.0.1', cast=Csv())\nINSTALLED_APPS = [\n    'daphne',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='.onrender.com,localhost,127.0.0.1', cast=Csv())\nINSTALLED_APPS = [\n    'daphne',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'daphne',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework.authtoken',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "ROOT_URLCONF = 'social_platform.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'social_platform.wsgi.application'\nASGI_APPLICATION = 'social_platform.asgi.application'\nDATABASES = {\n    'default': dj_database_url.config(\n        default='sqlite:///' + str(BASE_DIR / 'db.sqlite3'),\n        conn_max_age=600,\n    )\n}\nAUTH_PASSWORD_VALIDATORS = [\n    {'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator'},",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ASGI_APPLICATION",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "ASGI_APPLICATION = 'social_platform.asgi.application'\nDATABASES = {\n    'default': dj_database_url.config(\n        default='sqlite:///' + str(BASE_DIR / 'db.sqlite3'),\n        conn_max_age=600,\n    )\n}\nAUTH_PASSWORD_VALIDATORS = [\n    {'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator'},\n    {'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator'},",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(\n        default='sqlite:///' + str(BASE_DIR / 'db.sqlite3'),\n        conn_max_age=600,\n    )\n}\nAUTH_PASSWORD_VALIDATORS = [\n    {'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator'},\n    {'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator'},\n    {'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator'},",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator'},\n    {'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator'},\n    {'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator'},\n    {'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator'},\n]\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / 'static']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / 'static']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / 'static']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "USE_TZ = True\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / 'static']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [BASE_DIR / 'static']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "STATICFILES_DIRS = [BASE_DIR / 'static']\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }\n}",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }\n}\nREST_FRAMEWORK = {",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'media'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.User'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNEL_LAYERS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "CHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer'\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ],",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticatedOrReadOnly',\n    ],\n}\nLOGIN_URL = 'login'",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "LOGIN_URL = 'login'\nLOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email settings\nif config('EMAIL_HOST_USER', default=''):\n    EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\n    EMAIL_HOST = 'smtp.gmail.com'\n    EMAIL_PORT = 587\n    EMAIL_USE_TLS = True\n    EMAIL_HOST_USER = config('EMAIL_HOST_USER')",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'home'\nLOGOUT_REDIRECT_URL = 'login'\n# Email settings\nif config('EMAIL_HOST_USER', default=''):\n    EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\n    EMAIL_HOST = 'smtp.gmail.com'\n    EMAIL_PORT = 587\n    EMAIL_USE_TLS = True\n    EMAIL_HOST_USER = config('EMAIL_HOST_USER')\n    EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = 'login'\n# Email settings\nif config('EMAIL_HOST_USER', default=''):\n    EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\n    EMAIL_HOST = 'smtp.gmail.com'\n    EMAIL_PORT = 587\n    EMAIL_USE_TLS = True\n    EMAIL_HOST_USER = config('EMAIL_HOST_USER')\n    EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')\nelse:",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = 'noreply@socialplatform.com'\nCSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CSRF_TRUSTED_ORIGINS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "social_platform.urls",
+        "description": "social_platform.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('dashboard/', include('dashboard.urls')),\n    path('', include('users.urls')),\n    path('', include('posts.urls')),\n    path('', include('friends.urls')),\n    path('', include('notifications.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "social_platform.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "social_platform.wsgi",
+        "description": "social_platform.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "social_platform.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0001_initial",
+        "description": "users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "users.apps",
+        "description": "users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    name = 'users'",
+        "detail": "users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserCreationForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class CustomUserCreationForm(UserCreationForm):\n    class Meta(UserCreationForm.Meta):\n        model = User\n        fields = ('username', 'email')\nclass EditProfileForm(forms.ModelForm):\n    class Meta:\n        model = User\n        fields = ('bio', 'profile_pic', 'cover_photo', 'location', 'date_of_birth', 'is_private')\n        widgets = {\n            'bio': forms.Textarea(attrs={'rows': 3, 'maxlength': 500}),",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EditProfileForm",
+        "kind": 6,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "class EditProfileForm(forms.ModelForm):\n    class Meta:\n        model = User\n        fields = ('bio', 'profile_pic', 'cover_photo', 'location', 'date_of_birth', 'is_private')\n        widgets = {\n            'bio': forms.Textarea(attrs={'rows': 3, 'maxlength': 500}),\n            'date_of_birth': forms.DateInput(attrs={'type': 'date'}),\n        }",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "users.forms",
+        "description": "users.forms",
+        "peekOfCode": "User = get_user_model()\nclass CustomUserCreationForm(UserCreationForm):\n    class Meta(UserCreationForm.Meta):\n        model = User\n        fields = ('username', 'email')\nclass EditProfileForm(forms.ModelForm):\n    class Meta:\n        model = User\n        fields = ('bio', 'profile_pic', 'cover_photo', 'location', 'date_of_birth', 'is_private')\n        widgets = {",
+        "detail": "users.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class User(AbstractUser):\n    bio = models.TextField(max_length=500, blank=True)\n    profile_pic = models.ImageField(upload_to='profile_pics/', blank=True, null=True)\n    cover_photo = models.ImageField(upload_to='cover_photos/', blank=True, null=True)\n    location = models.CharField(max_length=100, blank=True)\n    date_of_birth = models.DateField(blank=True, null=True)\n    is_private = models.BooleanField(default=False)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.username",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmailVerificationTokenGenerator",
+        "kind": 6,
+        "importPath": "users.tokens",
+        "description": "users.tokens",
+        "peekOfCode": "class EmailVerificationTokenGenerator(PasswordResetTokenGenerator):\n    def _make_hash_value(self, user, timestamp):\n        return f\"{user.pk}{timestamp}{user.is_active}\"\nemail_verification_token = EmailVerificationTokenGenerator()",
+        "detail": "users.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "email_verification_token",
+        "kind": 5,
+        "importPath": "users.tokens",
+        "description": "users.tokens",
+        "peekOfCode": "email_verification_token = EmailVerificationTokenGenerator()",
+        "detail": "users.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/', views.register_view, name='register'),\n    path('verification-sent/', views.verification_sent_view, name='verification_sent'),\n    path('verify-email/<uidb64>/<token>/', views.verify_email_view, name='verify_email'),\n    path('login/', views.login_view, name='login'),\n    path('logout/', views.logout_view, name='logout'),\n    path('', views.home_view, name='home'),\n    path('profile/edit/', views.edit_profile_view, name='edit_profile'),\n    path('profile/<str:username>/', views.profile_view, name='profile'),\n    path('password-reset/', auth_views.PasswordResetView.as_view(template_name='users/password_reset.html'), name='password_reset'),",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "send_verification_email",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def send_verification_email(request, user):\n    current_site = get_current_site(request)\n    uid = urlsafe_base64_encode(force_bytes(user.pk))\n    token = email_verification_token.make_token(user)\n    link = f\"http://{current_site.domain}/verify-email/{uid}/{token}/\"\n    message = f\"Hi {user.username},\\n\\nPlease verify your email by clicking the link below:\\n\\n{link}\\n\\nThanks for joining Social Platform!\"\n    send_mail(\n        'Verify your email - Social Platform',\n        message,\n        'noreply@socialplatform.com',",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        form = CustomUserCreationForm(request.POST)\n        if form.is_valid():\n            user = form.save(commit=False)\n            user.is_active = False\n            user.save()\n            send_verification_email(request, user)\n            return redirect('verification_sent')\n    else:",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "verification_sent_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def verification_sent_view(request):\n    return render(request, 'users/verification_sent.html')\ndef verify_email_view(request, uidb64, token):\n    try:\n        uid = urlsafe_base64_decode(uidb64).decode()\n        user = User.objects.get(pk=uid)\n    except (TypeError, ValueError, OverflowError, User.DoesNotExist):\n        user = None\n    if user is not None and email_verification_token.check_token(user, token):\n        user.is_active = True",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "verify_email_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def verify_email_view(request, uidb64, token):\n    try:\n        uid = urlsafe_base64_decode(uidb64).decode()\n        user = User.objects.get(pk=uid)\n    except (TypeError, ValueError, OverflowError, User.DoesNotExist):\n        user = None\n    if user is not None and email_verification_token.check_token(user, token):\n        user.is_active = True\n        user.save()\n        return render(request, 'users/verify_success.html')",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def login_view(request):\n    if request.method == 'POST':\n        username = request.POST.get('username')\n        password = request.POST.get('password')\n        user = authenticate(request, username=username, password=password)\n        if user is not None:\n            login(request, user)\n            return redirect('home')\n        else:\n            try:",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def logout_view(request):\n    logout(request)\n    return redirect('login')\n@login_required\ndef home_view(request):\n    return render(request, 'users/home.html')\n@login_required\ndef profile_view(request, username):\n    profile_user = get_object_or_404(User, username=username)\n    posts = Post.objects.filter(author=profile_user).order_by('-created_at')",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "home_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def home_view(request):\n    return render(request, 'users/home.html')\n@login_required\ndef profile_view(request, username):\n    profile_user = get_object_or_404(User, username=username)\n    posts = Post.objects.filter(author=profile_user).order_by('-created_at')\n    is_following = Follow.objects.filter(follower=request.user, following=profile_user).exists()\n    followers_count = Follow.objects.filter(following=profile_user).count()\n    following_count = Follow.objects.filter(follower=profile_user).count()\n    posts_count = posts.count()",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def profile_view(request, username):\n    profile_user = get_object_or_404(User, username=username)\n    posts = Post.objects.filter(author=profile_user).order_by('-created_at')\n    is_following = Follow.objects.filter(follower=request.user, following=profile_user).exists()\n    followers_count = Follow.objects.filter(following=profile_user).count()\n    following_count = Follow.objects.filter(follower=profile_user).count()\n    posts_count = posts.count()\n    context = {\n        'profile_user': profile_user,\n        'posts': posts,",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_profile_view",
+        "kind": 2,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "def edit_profile_view(request):\n    if request.method == 'POST':\n        form = EditProfileForm(request.POST, request.FILES, instance=request.user)\n        if form.is_valid():\n            form.save()\n            return redirect('profile', username=request.user.username)\n    else:\n        form = EditProfileForm(instance=request.user)\n    return render(request, 'users/edit_profile.html', {'form': form})",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "User = get_user_model()\ndef send_verification_email(request, user):\n    current_site = get_current_site(request)\n    uid = urlsafe_base64_encode(force_bytes(user.pk))\n    token = email_verification_token.make_token(user)\n    link = f\"http://{current_site.domain}/verify-email/{uid}/{token}/\"\n    message = f\"Hi {user.username},\\n\\nPlease verify your email by clicking the link below:\\n\\n{link}\\n\\nThanks for joining Social Platform!\"\n    send_mail(\n        'Verify your email - Social Platform',\n        message,",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'social_platform.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
