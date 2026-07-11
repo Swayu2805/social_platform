@@ -1,4 +1,4 @@
-﻿{% extends 'base.html' %}
+{% extends 'base.html' %}
 {% block title %}{{ profile_user.username }}'s Profile{% endblock %}
 {% block content %}
 <div class="card profile-header">
@@ -14,7 +14,7 @@
         <p class="profile-bio">{{ profile_user.bio }}</p>
     {% endif %}
     {% if profile_user.location %}
-        <p class="profile-bio">📍 {{ profile_user.location }}</p>
+        <p class="profile-bio">?? {{ profile_user.location }}</p>
     {% endif %}
 
     <div class="profile-stats">
@@ -38,6 +38,7 @@
         <a href="{% url 'follow_toggle' profile_user.id %}" class="btn {% if is_following %}btn-outline{% endif %}">
             {% if is_following %}Unfollow{% else %}+ Follow{% endif %}
         </a>
+        <a href="{% url 'start_direct_chat' profile_user.username %}" class="btn btn-outline">?? Message</a>
     {% endif %}
 </div>
 
@@ -51,3 +52,5 @@
     <p class="empty-state">No posts yet.</p>
 {% endfor %}
 {% endblock %}
+
+
