@@ -871,6 +871,30 @@
         "documentation": {}
     },
     {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
         "label": "get_current_site",
         "importPath": "django.contrib.sites.shortcuts",
         "description": "django.contrib.sites.shortcuts",
@@ -1787,7 +1811,7 @@
         "kind": 5,
         "importPath": "social_platform.settings",
         "description": "social_platform.settings",
-        "peekOfCode": "DEFAULT_FROM_EMAIL = 'noreply@socialplatform.com'\nCSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = 'noreply@socialplatform.com'\nCSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']\nEMAIL_TIMEOUT = 10",
         "detail": "social_platform.settings",
         "documentation": {}
     },
@@ -1796,7 +1820,7 @@
         "kind": 5,
         "importPath": "social_platform.settings",
         "description": "social_platform.settings",
-        "peekOfCode": "CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']\nEMAIL_TIMEOUT = 10",
         "detail": "social_platform.settings",
         "documentation": {}
     },
@@ -1805,7 +1829,7 @@
         "kind": 5,
         "importPath": "social_platform.settings",
         "description": "social_platform.settings",
-        "peekOfCode": "ALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']\nEMAIL_TIMEOUT = 10",
         "detail": "social_platform.settings",
         "documentation": {}
     },
@@ -1814,7 +1838,16 @@
         "kind": 5,
         "importPath": "social_platform.settings",
         "description": "social_platform.settings",
-        "peekOfCode": "ALLOWED_HOSTS = ['*']",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nEMAIL_TIMEOUT = 10",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_TIMEOUT",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "EMAIL_TIMEOUT = 10",
         "detail": "social_platform.settings",
         "documentation": {}
     },
@@ -1931,7 +1964,7 @@
         "kind": 2,
         "importPath": "users.views",
         "description": "users.views",
-        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        form = CustomUserCreationForm(request.POST)\n        if form.is_valid():\n            user = form.save(commit=False)\n            user.is_active = False\n            user.save()\n            send_verification_email(request, user)\n            return redirect('verification_sent')\n    else:",
+        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        form = CustomUserCreationForm(request.POST)\n        if form.is_valid():\n            user = form.save(commit=False)\n            user.is_active = True\n            user.save()\n            login(request, user)\n            return redirect('home')\n    else:",
         "detail": "users.views",
         "documentation": {}
     },

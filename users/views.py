@@ -1,4 +1,4 @@
-﻿from django.shortcuts import render, redirect, get_object_or_404
+from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth import login, logout, authenticate, get_user_model
 from django.contrib.auth.decorators import login_required
 from django.contrib.sites.shortcuts import get_current_site
@@ -32,10 +32,10 @@ def register_view(request):
         form = CustomUserCreationForm(request.POST)
         if form.is_valid():
             user = form.save(commit=False)
-            user.is_active = False
+            user.is_active = True
             user.save()
-            send_verification_email(request, user)
-            return redirect('verification_sent')
+            login(request, user)
+            return redirect('home')
     else:
         form = CustomUserCreationForm()
     return render(request, 'users/register.html', {'form': form})
@@ -111,3 +111,6 @@ def edit_profile_view(request):
     else:
         form = EditProfileForm(instance=request.user)
     return render(request, 'users/edit_profile.html', {'form': form})
+
+
+
