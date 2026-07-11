@@ -1787,7 +1787,7 @@
         "kind": 5,
         "importPath": "social_platform.settings",
         "description": "social_platform.settings",
-        "peekOfCode": "DEFAULT_FROM_EMAIL = 'noreply@socialplatform.com'\nCSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = 'noreply@socialplatform.com'\nCSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']",
         "detail": "social_platform.settings",
         "documentation": {}
     },
@@ -1796,7 +1796,16 @@
         "kind": 5,
         "importPath": "social_platform.settings",
         "description": "social_platform.settings",
-        "peekOfCode": "CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']",
+        "peekOfCode": "CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())\nALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']",
+        "detail": "social_platform.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "social_platform.settings",
+        "description": "social_platform.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nALLOWED_HOSTS = ['*']",
         "detail": "social_platform.settings",
         "documentation": {}
     },

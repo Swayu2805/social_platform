@@ -130,3 +130,5 @@ DEFAULT_FROM_EMAIL = 'noreply@socialplatform.com'
 CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', default='', cast=Csv())
 
 ALLOWED_HOSTS = ['*']
+
+ALLOWED_HOSTS = ['*']
