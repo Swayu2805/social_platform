@@ -48,11 +48,19 @@
         "documentation": {}
     },
     {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
         "isExtraImport": true,
-        "detail": "django.apps",
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
         "documentation": {}
     },
     {
@@ -85,6 +93,46 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
         "documentation": {}
     },
     {
@@ -229,6 +277,22 @@
         "description": "rest_framework",
         "isExtraImport": true,
         "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
         "documentation": {}
     },
     {
@@ -504,6 +568,14 @@
         "documentation": {}
     },
     {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -513,6 +585,22 @@
     },
     {
         "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -549,30 +637,6 @@
         "description": "rest_framework.routers",
         "isExtraImport": true,
         "detail": "rest_framework.routers",
-        "documentation": {}
-    },
-    {
-        "label": "staff_member_required",
-        "importPath": "django.contrib.admin.views.decorators",
-        "description": "django.contrib.admin.views.decorators",
-        "isExtraImport": true,
-        "detail": "django.contrib.admin.views.decorators",
-        "documentation": {}
-    },
-    {
-        "label": "Count",
-        "importPath": "django.db.models",
-        "description": "django.db.models",
-        "isExtraImport": true,
-        "detail": "django.db.models",
-        "documentation": {}
-    },
-    {
-        "label": "Q",
-        "importPath": "django.db.models",
-        "description": "django.db.models",
-        "isExtraImport": true,
-        "detail": "django.db.models",
         "documentation": {}
     },
     {
@@ -649,35 +713,19 @@
         "documentation": {}
     },
     {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
+        "detail": "django.conf",
         "documentation": {}
     },
     {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
         "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
-        "documentation": {}
-    },
-    {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
-        "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
-        "documentation": {}
-    },
-    {
-        "label": "login_required",
-        "importPath": "django.contrib.auth.decorators",
-        "description": "django.contrib.auth.decorators",
-        "isExtraImport": true,
-        "detail": "django.contrib.auth.decorators",
+        "detail": "django.conf",
         "documentation": {}
     },
     {
@@ -695,6 +743,150 @@
         "description": "channels.generic.websocket",
         "isExtraImport": true,
         "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "database_sync_to_async",
+        "importPath": "channels.db",
+        "description": "channels.db",
+        "isExtraImport": true,
+        "detail": "channels.db",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "staff_member_required",
+        "importPath": "django.contrib.admin.views.decorators",
+        "description": "django.contrib.admin.views.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.admin.views.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
         "documentation": {}
     },
     {
@@ -768,6 +960,14 @@
         "description": "notifications.routing",
         "isExtraImport": true,
         "detail": "notifications.routing",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_urlpatterns",
+        "importPath": "chat.routing",
+        "description": "chat.routing",
+        "isExtraImport": true,
+        "detail": "chat.routing",
         "documentation": {}
     },
     {
@@ -860,38 +1060,6 @@
         "description": "django.contrib.auth.admin",
         "isExtraImport": true,
         "detail": "django.contrib.auth.admin",
-        "documentation": {}
-    },
-    {
-        "label": "forms",
-        "importPath": "django",
-        "description": "django",
-        "isExtraImport": true,
-        "detail": "django",
-        "documentation": {}
-    },
-    {
-        "label": "render",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
-        "documentation": {}
-    },
-    {
-        "label": "redirect",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
-        "documentation": {}
-    },
-    {
-        "label": "get_object_or_404",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
-        "isExtraImport": true,
-        "detail": "django.shortcuts",
         "documentation": {}
     },
     {
@@ -1120,6 +1288,132 @@
         "description": "api.views",
         "peekOfCode": "User = get_user_model()\nclass UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):",
         "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "chat.migrations.0001_initial",
+        "description": "chat.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ChatRoom',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "chat.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ChatConfig",
+        "kind": 6,
+        "importPath": "chat.apps",
+        "description": "chat.apps",
+        "peekOfCode": "class ChatConfig(AppConfig):\n    name = 'chat'",
+        "detail": "chat.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ChatConsumer",
+        "kind": 6,
+        "importPath": "chat.consumers",
+        "description": "chat.consumers",
+        "peekOfCode": "class ChatConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        self.room_id = self.scope['url_route']['kwargs']['room_id']\n        self.room_group_name = f'chat_{self.room_id}'\n        user = self.scope['user']\n        if not user.is_authenticated:\n            await self.close()\n            return\n        is_participant = await self.check_participant(user)\n        if not is_participant:",
+        "detail": "chat.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "CreateGroupForm",
+        "kind": 6,
+        "importPath": "chat.forms",
+        "description": "chat.forms",
+        "peekOfCode": "class CreateGroupForm(forms.Form):\n    name = forms.CharField(max_length=100)\n    participants = forms.ModelMultipleChoiceField(\n        queryset=User.objects.all(),\n        widget=forms.CheckboxSelectMultiple\n    )",
+        "detail": "chat.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "chat.forms",
+        "description": "chat.forms",
+        "peekOfCode": "User = get_user_model()\nclass CreateGroupForm(forms.Form):\n    name = forms.CharField(max_length=100)\n    participants = forms.ModelMultipleChoiceField(\n        queryset=User.objects.all(),\n        widget=forms.CheckboxSelectMultiple\n    )",
+        "detail": "chat.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ChatRoom",
+        "kind": 6,
+        "importPath": "chat.models",
+        "description": "chat.models",
+        "peekOfCode": "class ChatRoom(models.Model):\n    name = models.CharField(max_length=100, blank=True)\n    is_group = models.BooleanField(default=False)\n    participants = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='chat_rooms')\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        if self.is_group:\n            return self.name or f\"Group {self.id}\"\n        usernames = \", \".join([u.username for u in self.participants.all()])\n        return usernames",
+        "detail": "chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "chat.models",
+        "description": "chat.models",
+        "peekOfCode": "class Message(models.Model):\n    room = models.ForeignKey(ChatRoom, related_name='messages', on_delete=models.CASCADE)\n    sender = models.ForeignKey(settings.AUTH_USER_MODEL, related_name='sent_messages', on_delete=models.CASCADE)\n    content = models.TextField()\n    timestamp = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        ordering = ['timestamp']\n    def __str__(self):\n        return f\"{self.sender.username}: {self.content[:30]}\"",
+        "detail": "chat.models",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_urlpatterns",
+        "kind": 5,
+        "importPath": "chat.routing",
+        "description": "chat.routing",
+        "peekOfCode": "websocket_urlpatterns = [\n    re_path(r'ws/chat/(?P<room_id>\\d+)/$', consumers.ChatConsumer.as_asgi()),\n]",
+        "detail": "chat.routing",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "chat.urls",
+        "description": "chat.urls",
+        "peekOfCode": "urlpatterns = [\n    path('chat/', views.inbox_view, name='chat_inbox'),\n    path('chat/room/<int:room_id>/', views.room_view, name='chat_room'),\n    path('chat/start/<str:username>/', views.start_direct_chat, name='start_direct_chat'),\n    path('chat/group/create/', views.create_group_view, name='create_group'),\n]",
+        "detail": "chat.urls",
+        "documentation": {}
+    },
+    {
+        "label": "inbox_view",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def inbox_view(request):\n    rooms = request.user.chat_rooms.all().order_by('-created_at')\n    return render(request, 'chat/inbox.html', {'rooms': rooms})\n@login_required\ndef room_view(request, room_id):\n    room = get_object_or_404(ChatRoom, id=room_id, participants=request.user)\n    messages = room.messages.all()\n    return render(request, 'chat/room.html', {'room': room, 'messages': messages})\n@login_required\ndef start_direct_chat(request, username):",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "room_view",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def room_view(request, room_id):\n    room = get_object_or_404(ChatRoom, id=room_id, participants=request.user)\n    messages = room.messages.all()\n    return render(request, 'chat/room.html', {'room': room, 'messages': messages})\n@login_required\ndef start_direct_chat(request, username):\n    other_user = get_object_or_404(User, username=username)\n    if other_user == request.user:\n        return redirect('chat_inbox')\n    existing_room = ChatRoom.objects.filter(is_group=False, participants=request.user).filter(participants=other_user).first()",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "start_direct_chat",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def start_direct_chat(request, username):\n    other_user = get_object_or_404(User, username=username)\n    if other_user == request.user:\n        return redirect('chat_inbox')\n    existing_room = ChatRoom.objects.filter(is_group=False, participants=request.user).filter(participants=other_user).first()\n    if existing_room:\n        return redirect('chat_room', room_id=existing_room.id)\n    room = ChatRoom.objects.create(is_group=False)\n    room.participants.add(request.user, other_user)\n    return redirect('chat_room', room_id=room.id)",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_group_view",
+        "kind": 2,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "def create_group_view(request):\n    if request.method == 'POST':\n        form = CreateGroupForm(request.POST)\n        if form.is_valid():\n            room = ChatRoom.objects.create(name=form.cleaned_data['name'], is_group=True)\n            room.participants.add(request.user)\n            for user in form.cleaned_data['participants']:\n                room.participants.add(user)\n            return redirect('chat_room', room_id=room.id)\n    else:",
+        "detail": "chat.views",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "chat.views",
+        "description": "chat.views",
+        "peekOfCode": "User = get_user_model()\n@login_required\ndef inbox_view(request):\n    rooms = request.user.chat_rooms.all().order_by('-created_at')\n    return render(request, 'chat/inbox.html', {'rooms': rooms})\n@login_required\ndef room_view(request, room_id):\n    room = get_object_or_404(ChatRoom, id=room_id, participants=request.user)\n    messages = room.messages.all()\n    return render(request, 'chat/room.html', {'room': room, 'messages': messages})",
+        "detail": "chat.views",
         "documentation": {}
     },
     {
@@ -1532,7 +1826,7 @@
         "kind": 5,
         "importPath": "social_platform.asgi",
         "description": "social_platform.asgi",
-        "peekOfCode": "django_asgi_app = get_asgi_application()\nfrom channels.routing import ProtocolTypeRouter, URLRouter\nfrom channels.auth import AuthMiddlewareStack\nfrom notifications.routing import websocket_urlpatterns\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AuthMiddlewareStack(\n        URLRouter(websocket_urlpatterns)\n    ),\n})",
+        "peekOfCode": "django_asgi_app = get_asgi_application()\nfrom channels.routing import ProtocolTypeRouter, URLRouter\nfrom channels.auth import AuthMiddlewareStack\nfrom notifications.routing import websocket_urlpatterns as notif_patterns\nfrom chat.routing import websocket_urlpatterns as chat_patterns\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AuthMiddlewareStack(\n        URLRouter(notif_patterns + chat_patterns)\n    ),",
         "detail": "social_platform.asgi",
         "documentation": {}
     },
@@ -1541,7 +1835,7 @@
         "kind": 5,
         "importPath": "social_platform.asgi",
         "description": "social_platform.asgi",
-        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AuthMiddlewareStack(\n        URLRouter(websocket_urlpatterns)\n    ),\n})",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AuthMiddlewareStack(\n        URLRouter(notif_patterns + chat_patterns)\n    ),\n})",
         "detail": "social_platform.asgi",
         "documentation": {}
     },
@@ -1856,7 +2150,7 @@
         "kind": 5,
         "importPath": "social_platform.urls",
         "description": "social_platform.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('dashboard/', include('dashboard.urls')),\n    path('', include('users.urls')),\n    path('', include('posts.urls')),\n    path('', include('friends.urls')),\n    path('', include('notifications.urls')),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('dashboard/', include('dashboard.urls')),\n    path('', include('users.urls')),\n    path('', include('posts.urls')),\n    path('', include('friends.urls')),\n    path('', include('notifications.urls')),\n    path('', include('chat.urls')),\n    path('', include('users.urls')),\n    path('', include('posts.urls')),",
         "detail": "social_platform.urls",
         "documentation": {}
     },

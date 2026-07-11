@@ -1,4 +1,4 @@
-﻿"""
+"""
 Django settings for social_platform project.
 """
 import os
@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'posts',
     'friends',
     'notifications',
+    'chat',
     'api',
     'dashboard',
 ]
@@ -134,3 +135,4 @@ ALLOWED_HOSTS = ['*']
 ALLOWED_HOSTS = ['*']
 
 EMAIL_TIMEOUT = 10
+

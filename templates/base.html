@@ -1,4 +1,4 @@
-﻿{% load static %}
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +13,7 @@
             <a href="{% url 'feed' %}">Feed</a>
             <a href="{% url 'profile' user.username %}">My Profile</a>
             <a href="{% url 'user_list' %}">Users</a>
+            <a href="{% url 'chat_inbox' %}">Chats</a>
             <a href="{% url 'notification_list' %}">Notifications<span id="notif-badge">{% if unread_notif_count > 0 %}<span class="nav-badge">{{ unread_notif_count }}</span>{% endif %}</span></a>
             {% if user.is_staff %}
                 <a href="{% url 'dashboard_home' %}">Dashboard</a>
@@ -53,3 +54,4 @@
     {% endif %}
 </body>
 </html>
+

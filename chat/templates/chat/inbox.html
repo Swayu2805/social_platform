@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block title %}Chats{% endblock %}
+{% block content %}
+<h2>Your Chats</h2>
+<a href="{% url 'create_group' %}" class="btn-full" style="display:inline-block; width:auto; padding:8px 16px;">+ New Group</a>
+<ul style="list-style:none; padding:0; margin-top:20px;">
+{% for room in rooms %}
+    <li style="padding:10px; border-bottom:1px solid #ddd;">
+        <a href="{% url 'chat_room' room.id %}">
+            {% if room.is_group %}
+                📢 {{ room.name }}
+            {% else %}
+                {% for p in room.participants.all %}
+                    {% if p != request.user %}👤 {{ p.username }}{% endif %}
+                {% endfor %}
+            {% endif %}
+        </a>
+    </li>
+{% empty %}
+    <p>No chats yet.</p>
+{% endfor %}
+</ul>
+{% endblock %}
